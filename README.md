@@ -5,7 +5,7 @@ A curated dataset tracking how AI-generated content affects:
 - AI Impact on Digital Media trends
 - Top 5 country with highest average adoption rate
 - Average revenue increased per year
-- List of all the countries due to where job loss is > 20%
+- List of all the countries due to ai impact where job loss is > 20%
 - Adoption rate classification
 
 ---
